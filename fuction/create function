@@ -1,0 +1,6 @@
+
+def demo(name, age):
+    # print value
+    print(name, age)
+
+demo("Ben", 25)
