@@ -1,0 +1,17 @@
+  a['kris'] = 85
+
+ print (a)
+{'joe': 85, 'peter': 88, 'jack': 90, 'kris': 85}
+
+ del a['kris']
+
+ print (a)
+{'joe': 85, 'peter': 88, 'jack': 90}
+
+ a = str(a)
+
+ print (a)
+{'joe': 85, 'peter': 88, 'jack': 90}
+
+ print (a[0:5])
+{'joe
