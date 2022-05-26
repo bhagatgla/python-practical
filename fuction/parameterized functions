@@ -1,0 +1,5 @@
+def greet(name:str):  
+    print ('Hello ', name)
+
+greet('Steve') # calling function with string argument
+greet(123) # raise an error for int argument
