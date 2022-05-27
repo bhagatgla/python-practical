@@ -1,0 +1,4 @@
+filename = “C:/Documents/Python/test.txt”
+filehandle = open(filename, ‘r’)
+filedata = filehandle.read()
+print(filedata)
