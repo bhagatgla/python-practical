@@ -1,0 +1,2 @@
+ import random as rd
+ random.randrange(0, 101, 10)
