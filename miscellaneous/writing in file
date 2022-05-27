@@ -1,0 +1,3 @@
+my_file = open(“C:/Documents/Python/test.txt”, “w”)
+my_file.write(“Hello World\n”)
+my_file.write(“Hello Python”)
