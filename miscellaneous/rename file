@@ -1,0 +1,2 @@
+import os
+os.rename(“C:/Documents/Python/test.txt”, “C:/Documents/Python/test1.txt”)
